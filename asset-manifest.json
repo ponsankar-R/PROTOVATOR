@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PROTOVATOR/static/css/main.5f3cde4b.css",
+    "main.js": "/PROTOVATOR/static/js/main.9054e797.js",
+    "static/js/453.ed3810f9.chunk.js": "/PROTOVATOR/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/PROTOVATOR/index.html",
+    "main.5f3cde4b.css.map": "/PROTOVATOR/static/css/main.5f3cde4b.css.map",
+    "main.9054e797.js.map": "/PROTOVATOR/static/js/main.9054e797.js.map",
+    "453.ed3810f9.chunk.js.map": "/PROTOVATOR/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f3cde4b.css",
+    "static/js/main.9054e797.js"
+  ]
+}
